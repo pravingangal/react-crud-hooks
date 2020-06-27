@@ -4,7 +4,6 @@ import Employees from "./components/employees";
 import Employee from "./components/employee";
 import Popmodal from "./utils/popmodal";
 import "./App.css";
-////************   added to github in june 2020 */
 
 function App() {
   const [url] = useState("http://localhost:3000/data/data.json");
