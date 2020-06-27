@@ -1,0 +1,7 @@
+div.container > div:nth-last-child(1) > div:last-child {
+  text-align: center;
+}
+div.container > div:nth-last-child(1) {
+  font-weight: bold;
+  text-align: left;
+}
